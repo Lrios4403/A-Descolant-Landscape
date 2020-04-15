@@ -1,0 +1,234 @@
+
+
+  Well this is my diary, as the
+jam continues ill guess ill 
+    write some stuff down
+    
++-|----#-|-+
+| |    # | |
+| +------+ |
+|    O     |
+| +------+ |
+| |  oof | |
++----------+
+    
+ also i found an old tv on the
+ curb that still works (an 
+ Emerson ecr138). ive got my
+super famicom hooked up to it
+ and now the vibes are set. if
+ i could hookup hdmi to it i 
+ could watch utube on the side
+    :o
+    
+¶ 
+
+
+
+    It is also at this point i
+   have realized i mabey shot
+   myself in the kneecap
+      via procrastination
+    
+¶ note: i am having a little
+ bit of a problem with vs2019.
+I have multiple threads running
+  and one of the threads is the
+3d renderer. FOR WHATEVEr reason
+when i run the program in DEBUG
+ the thread works w/o issue. BUT
+when running in RELEASE, the 
+thread dies after about 5 frames
+and vs2019 is like "yep that 
+seems fine to me". I guess i 
+need to look at all the vars.
+
+¶ uhhhhh now its working now but
+i never modified the renderer
+───────▄▀▀▀▀▀▀▀▀▀▀▄▄
+────▄▀▀░░░░░░░░░░░░░▀▄ 
+──▄▀░░░░░░░░░░░░░░░░░░▀▄
+──█░░░░░░░░░░░░░░░░░░░░░▀▄
+─▐▌░░░░░░░░▄▄▄▄▄▄▄░░░░░░░▐▌
+─█░░░░░░░░░░░▄▄▄▄░░▀▀▀▀▀░░█
+▐▌░░░░░░░▀▀▀▀░░░░░▀▀▀▀▀░░░▐▌
+█░░░░░░░░░▄▄▀▀▀▀▀░░░░▀▀▀▀▄░█
+█░░░░░░░░░░░░░░░░▀░░░▐░░░░░▐▌
+▐▌░░░░░░░░░▐▀▀██▄░░░░░░▄▄▄░▐▌
+─█░░░░░░░░░░░▀▀▀░░░░░░▀▀██░░█
+─▐▌░░░░▄░░░░░░░░░░░░░▌░░░░░░█
+──▐▌░░▐░░░░░░░░░░░░░░▀▄░░░░░█
+───█░░░▌░░░░░░░░▐▀░░░░▄▀░░░▐▌
+───▐▌░░▀▄░░░░░░░░▀░▀░▀▀░░░▄▀
+───▐▌░░▐▀▄░░░░░░░░░░░░░░░░█
+───▐▌░░░▌░▀▄░░░░▀▀▀▀▀▀░░░█
+───█░░░▀░░░░▀▄░░░░░░░░░░▄▀
+─▄▀░░░▄▀░░░░░░░░▀▀▀▀█▀
+▀░░░▄▀░░░░░░░░░░▀░░░▀▀▀▀▄▄▄▄▄
+¶So i woke up to a puppy
+ eating my shoes today.
+  apperently the family that
+ bought the dog has had some
+ problems with it (it would
+run away and growl at the 
+kids) and i find that complete
+ bullsh*t. (does this gamejam
+ allow nono words?) the pup
+ is as sweet as they come, and
+ playfull too. we have had
+ these cases before, its always
+the household or the shock. 
+anyway his name is chewy
+
+https://imgur.com/a/ZUnvMqM
+¶
+
+
+
+
+THE F####### ATE MY FLIFLOP
+
+¶
+
+  As im writing this entry 
+its raining outside. not too
+but but its sprinkling. im
+ sitting in my pajamas that
+ ive been in for the past 3 
+days. its spring break and
+  i shouldnt bee thinking 
+about school. but i am. ive 
+  got some extra credit in 
+     apgov that i have to do. 
+  aaaand i need to find which
+colledge i need to commit to
+before the gamejam ends. the
+lucky contestents are GCU, 
+NAU and Chico. 
+¶ 
+  ___           ___
+ /   \         /   \
+| + + |       | + + |
+| \_/ |   /   | \_/ |
+ \___/  _/     \___/
+GCU|    / \__    |CHICO
+   +---+     +---+
+   |  /          |
+   |    /---\    |
+   |    |NAU|    |
+  / \   |   |   / \
+ /   \         /   \
+¶ 
+
+So i found out why the 
+ family returned the pup. I 
+  was playing around and i 
+decided to chase the puper
+and it bolted under a couch.
+i know the prevous family had
+ children and i think anyone
+  can connect the dots. kids
+just playing too *ruff*. 
+
+¶
+
+
+
+       this do be a bruh moment
+
+
+
+¶
+
+
+  So the ben drowned creeyppasta 
+              back to life. huh
+    
+    no i will not activate my 
+        windows 
+        
+    
+¶
+  I posted the current version of
+ the engine into the show your 
+ stuff and apperently it caught
+         javidx9's eye and i 
+    dont know why. other than
+    the opencl implementation and
+  the DirectSound its not that 
+   impressive. I can do better i
+just need more time.
+
+   Also i decieded to commit to
+  gcu. that also happened
+    
+¶
+ i slept to much and now i have 
+    a headache. 
+    _____________
+   |-( )-        |
+   |/'|\`        |
+   |__|_\_`______|
+                 zz
+       ! _    zz           _____
+       |(~} zz         !  [01:pm]
+       |(_/__________..| ========
+ejm98  |  ||:::::::::::|  |_____|
+¶
+background info: me and a few others
+ were in a japanese student exchange
+ program. we bonded on not knowing
+ what japanese was.
+ one of them dropped off some easter
+ candy and invite me to a hike. Ive
+only have 16 hours 38 minutes 36 
+seconds so I SaId YeS. it was fun
+   i also discovered a secret 
+ relationship in the group (call
+me mr.big brain).
+      _---~~(~~-_.
+    _{        )   )
+  ,   ) -~~- ( ,-' )_
+ (  `-,_..`., )-- '_,)
+( ` _)  (  -~( -_ `,  }
+(_-  _  ~_-~~~~`,  ,' )
+  `~ -^(    __;-,((()))
+        ~~~~ {_ -_(())
+  e            `\  }
+                 { }      Steven 
+                 James Walker
+¶
+
+i was looking for bg music to use
+in the game and i found this guy:
+ https://twitter.com/Fishysmoothe
+ 
+ look at his music:
+ https://tinyurl.com/sp5j5eu
+ https://tinyurl.com/sp7v29o
+¶
+ 
+5
+hours
+41
+minutes
+40
+seconds
+
+i cant say that im impressed with
+the game, all it is is just an 
+engine demo. a lot happened over
+the past week besides the jam.
+I was so focused on collision and
+gravity that i didnt think of 
+making a map of all the lowest y 
+and going from there. Im tired, 
+my head hurts, and its 520 am on
+easter. if you ever do (by any 
+mirical) read this hit the *Home*
+button on the keyboard for the
+scene selector, a little secret.
+¶
+I do need to add a credit scene
+for the music man then ill guess
+ill submit.

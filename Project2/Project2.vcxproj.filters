@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\resources">
+      <UniqueIdentifier>{8172f2b8-95ee-4a31-8a68-8f930ea102a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\game">
+      <UniqueIdentifier>{0539610f-1fe2-4277-9066-511f89b94eab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\game\computer">
+      <UniqueIdentifier>{5aafcbae-1c97-48e0-9188-26123488e975}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\game\computer\programs">
+      <UniqueIdentifier>{9bf338ea-08ec-439d-9fff-3891a9e94701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine">
+      <UniqueIdentifier>{ce7aebdd-8f41-431d-beef-2a5fea6c52bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\opencl">
+      <UniqueIdentifier>{ec59937c-8dcf-4e5f-be09-bd5fd8b22e50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\render">
+      <UniqueIdentifier>{84709e83-21c8-4944-be4b-0c3e7bfed27a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\debug">
+      <UniqueIdentifier>{dad1ee4c-1bb0-486c-a5d4-7e30cd267cfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\javidx9">
+      <UniqueIdentifier>{58ab4950-f077-412f-93b9-161d1a32b56c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\sound">
+      <UniqueIdentifier>{928ff11f-ed08-4411-974b-ecbdd04c3fc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\exception">
+      <UniqueIdentifier>{e9df96a3-b5b6-450a-9b6e-e79cdca73c83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\anticheat">
+      <UniqueIdentifier>{bae1be8f-36b0-4b81-b96e-12cc95d47138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\game\scene">
+      <UniqueIdentifier>{e621eb9f-a94e-4452-b139-a80ed5d2dad9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\api">
+      <UniqueIdentifier>{d8d845c3-7a30-447a-aca0-39e127914c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\steam">
+      <UniqueIdentifier>{61122d4f-5e94-4b01-931b-bac30cc683eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\console">
+      <UniqueIdentifier>{138db197-a44b-445e-9399-a54edde740ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\windows">
+      <UniqueIdentifier>{ecd181ca-0b44-4a3a-b43f-910bcf70a061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\float">
+      <UniqueIdentifier>{134406fb-aa5b-466e-88af-2f8674be17a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\3d">
+      <UniqueIdentifier>{e41e57ae-b376-44cd-8d01-df7ab14cfbb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\utilities">
+      <UniqueIdentifier>{d9b58e46-a748-41fb-a632-39cb2fbbfe28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\engine\vr">
+      <UniqueIdentifier>{bb842fc6-2d41-46a0-8b67-012c7fc10bea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="opencl.h">
+      <Filter>Header Files\engine\opencl</Filter>
+    </ClInclude>
+    <ClInclude Include="clobject.h">
+      <Filter>Header Files\engine\opencl</Filter>
+    </ClInclude>
+    <ClInclude Include="olcConsoleGameEngine.h">
+      <Filter>Header Files\engine\javidx9</Filter>
+    </ClInclude>
+    <ClInclude Include="olcConsoleGameEngineGL.h">
+      <Filter>Header Files\engine\javidx9</Filter>
+    </ClInclude>
+    <ClInclude Include="pchelloworld.h">
+      <Filter>Header Files\game\computer\programs</Filter>
+    </ClInclude>
+    <ClInclude Include="program.h">
+      <Filter>Header Files\game\computer\programs</Filter>
+    </ClInclude>
+    <ClInclude Include="computer.h">
+      <Filter>Header Files\game\computer</Filter>
+    </ClInclude>
+    <ClInclude Include="engine.h">
+      <Filter>Header Files\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="fonthandler.h">
+      <Filter>Header Files\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Header Files\game</Filter>
+    </ClInclude>
+    <ClInclude Include="render.h">
+      <Filter>Header Files\engine\render</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>Header Files\engine\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="pcradio.h">
+      <Filter>Header Files\game\computer\programs</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>Header Files\engine\javidx9</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>Header Files\engine\sound</Filter>
+    </ClInclude>
+    <ClInclude Include="customException.h">
+      <Filter>Header Files\engine\exception</Filter>
+    </ClInclude>
+    <ClInclude Include="anticheat.h">
+      <Filter>Header Files\engine\anticheat</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>Header Files\game\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="steam.h">
+      <Filter>Header Files\engine\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="consoleManager.h">
+      <Filter>Header Files\engine\console</Filter>
+    </ClInclude>
+    <ClInclude Include="regedit.h">
+      <Filter>Header Files\engine\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="float.h">
+      <Filter>Header Files\engine\float</Filter>
+    </ClInclude>
+    <ClInclude Include="object.h">
+      <Filter>Header Files\engine\3d</Filter>
+    </ClInclude>
+    <ClInclude Include="tdmap.h">
+      <Filter>Header Files\engine\3d</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneview.h">
+      <Filter>Header Files\game\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneselect.h">
+      <Filter>Header Files\game\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scenespriteeditor.h">
+      <Filter>Header Files\game\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="string.h">
+      <Filter>Header Files\engine\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="objecth.h">
+      <Filter>Header Files\engine\3d</Filter>
+    </ClInclude>
+    <ClInclude Include="tdprocedural.h">
+      <Filter>Header Files\engine\3d</Filter>
+    </ClInclude>
+    <ClInclude Include="openvr.h">
+      <Filter>Header Files\engine\vr</Filter>
+    </ClInclude>
+    <ClInclude Include="scenediary.h">
+      <Filter>Header Files\game\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="macro.h">
+      <Filter>Header Files\engine\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="tdcollision.h">
+      <Filter>Header Files\engine\3d</Filter>
+    </ClInclude>
+    <ClInclude Include="tdmath.h">
+      <Filter>Header Files\engine\3d</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="HelloWorld.cl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Main.cl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\fontdef.spr">
+      <Filter>Resource Files\resources</Filter>
+    </None>
+    <None Include="resources\texture.spr">
+      <Filter>Resource Files\resources</Filter>
+    </None>
+    <None Include="resources\texture2.spr">
+      <Filter>Resource Files\resources</Filter>
+    </None>
+    <None Include="resources\texturep.spr">
+      <Filter>Resource Files\resources</Filter>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

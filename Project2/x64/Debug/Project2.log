@@ -1,0 +1,69 @@
+﻿  main.cpp
+W:\source\repos\opencl test\World Builder - 2\Project2\olcConsoleGameEngine.h(771,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\olcConsoleGameEngine.h(1111,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\olcConsoleGameEngine.h(1208,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+  The contents of <filesystem> are only available with C++17 or later.
+W:\source\repos\opencl test\World Builder - 2\Project2\sound.h(306,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sound.h(399,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\consoleManager.h(128,9): warning C4101: 'cursorPos': unreferenced local variable
+W:\source\repos\opencl test\World Builder - 2\Project2\objecth.h(345,1): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+W:\source\repos\opencl test\World Builder - 2\Project2\tdmath.h(503,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\tdmath.h(504,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\tdmath.h(563,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\tdmath.h(564,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\float.h(28,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\float.h(55,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\float.h(56,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\float.h(57,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\tdmap.h(77,32): warning C4244: '=': conversion from 'float' to 'unsigned long', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\tdmap.h(78,33): warning C4244: '=': conversion from 'float' to 'unsigned long', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sprite.h(429,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sprite.h(430,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sprite.h(489,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sprite.h(490,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\opencl.h(228,32): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+W:\source\repos\opencl test\World Builder - 2\Project2\opencl.h(229,32): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+W:\source\repos\opencl test\World Builder - 2\Project2\opencl.h(230,32): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+W:\source\repos\opencl test\World Builder - 2\Project2\opencl.h(231,32): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+W:\source\repos\opencl test\World Builder - 2\Project2\opencl.h(232,32): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+W:\source\repos\opencl test\World Builder - 2\Project2\opencl.h(233,32): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(138,41): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(174,41): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(259,56): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(498,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(510,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(510,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(509,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(509,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(508,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(508,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(514,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(514,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(514,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(514,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(514,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(514,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(521,126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(521,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(521,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(521,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(521,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\render.h(521,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneselect.h(77,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneview.h(155,51): warning C4552: '!=': result of expression not used
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneview.h(232,19): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneview.h(233,19): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneview.h(237,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneview.h(237,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneview.h(237,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneview.h(237,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\sceneview.h(91,10): warning C4101: 'cursorPos': unreferenced local variable
+W:\source\repos\opencl test\World Builder - 2\Project2\scenespriteeditor.h(64,10): warning C4101: 'cursorPos': unreferenced local variable
+W:\source\repos\opencl test\World Builder - 2\Project2\scenediary.h(45,1): warning C4102: 'InitEnd': unreferenced label
+W:\source\repos\opencl test\World Builder - 2\Project2\engine.h(19,1): warning C4005: 'WINVER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(238): message : see previous definition of 'WINVER'
+W:\source\repos\opencl test\World Builder - 2\Project2\engine.h(20,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : see previous definition of '_WIN32_WINNT'
+W:\source\repos\opencl test\World Builder - 2\Project2\engine.h(99,101): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+W:\source\repos\opencl test\World Builder - 2\Project2\tdmath.h(399): warning C4715: 'Triangle_ClipAgainstPlane': not all control paths return a value
+  Project2.vcxproj -> W:\source\repos\opencl test\World Builder - 2\x64\Debug\OpenCL Test.exe
